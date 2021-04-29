@@ -1,5 +1,7 @@
 # hotels-booking Web App
 
+Proyecto para Lenguajes modernos de programación. (Enero-Junio de 2020).
+
 With TravelCheap you can make a reservation in your favorite hotel.
 And also get to know interesting data with the admin page. 
 
